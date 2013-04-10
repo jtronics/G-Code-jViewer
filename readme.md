@@ -12,6 +12,9 @@ Downloads
 [Older releases can be found on the downloads page](https://github.com/jtronics/G-Code-jViewer/master)
 <br />
 
+
+Screenshot
+---------
 ![Screenshot of jViewer 3D Visualizer Window](https://raw.github.com/jtronics/G-Code-jViewer/master/pictures/jviewer_3.jpg "jViewer Software Screenshot.")
 
 
