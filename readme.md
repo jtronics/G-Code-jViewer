@@ -2,7 +2,7 @@ jViewer - The simple G-Code Viewer
 ---------
 jViewer is a QT based and GRBL compatibl cross platform G-Code viewer. Use this program to visualize the G-Code of a GRBL controlled CNC machine.
 The tool consists of a simple editor with syntax highlighting and a 3D openGL window for visualizing of standard NC Code.
-You will finde more informations about the software on our website: http://www.jtronics.de or http://www.jtronics.de/werkstatt/jview-simple-g-code-viewer/
+You will finde more informations about the software on our website: http://www.jtronics.de or http://www.jtronics.de/software/jcnc-cnc-steuerung/
 
 https://youtu.be/qyvUQBnrahs
 
